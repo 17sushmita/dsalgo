@@ -1,13 +1,37 @@
 .. image:: dsalgo.png
   :alt: image not found
 
-**OBJECTIVE:** 
+|licence| |forks| |PRs Welcome| |issues|
 
-to develop a library to implement and cover different data structures and algorithms in python to reduce the dependency of coding these datastructures for usage.
+.. |licence| image:: https://img.shields.io/github/license/codesankalp/dsalgo
+    :alt: MIT licence
+    :scale: 100%
+    :target: https://github.com/codesankalp/dsalgo/blob/master/LICENSE
+
+.. |forks| image:: https://img.shields.io/github/forks/codesankalp/dsalgo
+    :alt: Forks
+    :scale: 100%
+    :target: https://github.com/codesankalp/dsalgo/network/members
+    
+.. |PRs Welcome| image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+    :alt: Forks
+    :scale: 100%
+    :target: https://github.com/codesankalp/dsalgo/blob/master/.github/CONTRIBUTING.md
+
+
+.. |issues| image:: https://img.shields.io/github/issues/codesankalp/dsalgo
+    :alt: issues
+    :scale: 100%
+    :target: https://github.com/codesankalp/dsalgo/issues
+
+
+
+
+dsalgo is a python library which implements and cover different data structures and algorithms in python to reduce the dependency of coding these datastructures for usage.
 
 **AIM:** 
 
-to cover different available data structures and algorithms for generic cases.
+To cover different available data structures and algorithms for generic cases.
 
 ----------------------------------
 
@@ -35,12 +59,12 @@ to cover different available data structures and algorithms for generic cases.
 FOR LOCAL:
 ----------
 
-currently dsalgo doesn't support local mode.
+Currently dsalgo doesn't support local mode.
 
 FOR DEVELOPMENT:
 ----------------
 
-setting up for development is easy. use commands below.
+Setting up for development is easy. use commands below.
 
 Pip Manager:
 ------------
@@ -61,19 +85,19 @@ Github:
 
 **CONTRIBUTION**
 =====================
-anyone can contribute to dsalgo package following these `contribution guidelines`_
+Anyone can contribute to dsalgo package following these `contribution guidelines`_
 
 
 
 **CONTRIBUTION GUIDELINES**
 ==============================
-* appropriate title and details should be present while making pull request. follow `submission template`_.
+* Appropriate title and details should be present while making pull request. follow `submission template`_.
 
 ---------------------------
 
 **CODE OF CONDUCT**
 ====================
-* any available issue that is not assigned to someone is subject to be assigned on first come first serve basis. if the assigned person remains inactive for 72 hours issue will be reassigned to someone else.
+* Any available issue that is not assigned to someone is subject to be assigned on first come first serve basis. if the assigned person remains inactive for 72 hours issue will be reassigned to someone else.
 * PR is subject to mark invalid in case it is found inappropriate. (don't try to spam)
 
 --------------------------
